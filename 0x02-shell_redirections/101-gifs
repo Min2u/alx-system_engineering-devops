@@ -1,0 +1,2 @@
+#!/bin/bash t" | rev | cut -d "/" -f 1 | cut -d '.' 2-  
+| rev | LC_All-C sort -f 
